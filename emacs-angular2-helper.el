@@ -49,7 +49,7 @@ export class %sComponent {
   (format "import { Injectable } from '@angular/core'
 
 @Injectable()
-export class %sSerivce {
+export class %sService {
 
 }
 " (format-name name)))
